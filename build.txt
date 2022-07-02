@@ -1,0 +1,3 @@
+displayName = Duck's QoL
+author = Duck
+version = 0.1
